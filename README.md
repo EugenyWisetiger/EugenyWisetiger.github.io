@@ -1,2 +1,2 @@
-# EugenyWisetiger.github.io
-development
+# Eugeny Wisetiger (Евгений Ломакин)
+Web development
